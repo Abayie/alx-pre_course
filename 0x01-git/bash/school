@@ -1,2 +1,2 @@
-#!/bin/ash
-echo "The school is opem!"
+#!/bin/bash
+echo "The school is open!"
